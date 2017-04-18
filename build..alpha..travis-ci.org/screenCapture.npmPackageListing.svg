@@ -1,121 +1,121 @@
 <svg height="1886" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1886" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 19:06:13 +0000   362928 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 19:06:13 +0000    11391 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 19:06:13 +0000    22360 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 19:06:13 +0000     1129 bytes  build/api.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 19:06:13 +0000      309 bytes  build/bootstrap.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 19:06:13 +0000      317 bytes  build/cli.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 19:06:13 +0000      259 bytes  build/expose/Command.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 19:06:13 +0000        1 bytes  build/expose/CommandSorter.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 19:06:13 +0000     4138 bytes  build/expose/Context.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 19:06:13 +0000       14 bytes  build/expose/ContextHandle.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 19:06:13 +0000        1 bytes  build/expose/ContextValueHandle.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 19:06:13 +0000     7139 bytes  build/expose/Expose.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 19:06:13 +0000        1 bytes  build/expose/ExposeError.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 19:06:13 +0000     8624 bytes  build/expose/Formatter.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 19:06:13 +0000      221 bytes  build/expose/Group.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 19:06:13 +0000      176 bytes  build/expose/Level.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 19:06:13 +0000      258 bytes  build/expose/Option.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 19:06:13 +0000        1 bytes  build/expose/Result.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 19:06:13 +0000       14 bytes  build/expose/ResultHandle.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 19:06:13 +0000     1867 bytes  build/expose/sorter.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 19:06:13 +0000     2338 bytes  build/getContent.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 19:06:13 +0000     1413 bytes  build/git/GithubRepo.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 19:06:13 +0000        1 bytes  build/git/GithubRepoConfig.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 19:06:13 +0000     3898 bytes  build/git/GithubURLs.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 19:06:13 +0000      679 bytes  build/git/gitUtil.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 19:06:13 +0000     3603 bytes  build/git/loader/GithubAPI.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 19:06:13 +0000     2625 bytes  build/git/loader/GithubLoader.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 19:06:13 +0000     2252 bytes  build/git/loader/GithubRaw.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 19:06:13 +0000     1015 bytes  build/git/model/GitCommitMessage.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 19:06:13 +0000      765 bytes  build/git/model/GitCommitUser.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 19:06:13 +0000        1 bytes  build/git/model/GithubJSONTreeElem.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 19:06:13 +0000     2435 bytes  build/git/model/GithubRateInfo.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 19:06:13 +0000      575 bytes  build/git/model/GithubUser.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 19:06:13 +0000        1 bytes  build/http/CacheInfo.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 19:06:13 +0000      419 bytes  build/http/CacheMode.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 19:06:13 +0000      181 bytes  build/http/CacheObject.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 19:06:13 +0000     1743 bytes  build/http/CacheOpts.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 19:06:13 +0000     1375 bytes  build/http/CacheRequest.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 19:06:13 +0000    13045 bytes  build/http/CacheStreamLoader.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 19:06:13 +0000     8676 bytes  build/http/HTTPCache.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 19:06:13 +0000        1 bytes  build/http/HTTPOpts.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 19:06:13 +0000      198 bytes  build/http/ResponseInfo.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 19:06:13 +0000      977 bytes  build/http/types.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 19:06:13 +0000     9858 bytes  build/tsd/API.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 19:06:13 +0000    20233 bytes  build/tsd/CLI.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 19:06:13 +0000      944 bytes  build/tsd/Options.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 19:06:13 +0000    10793 bytes  build/tsd/cli/CLIPrinter.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 19:06:13 +0000     2308 bytes  build/tsd/cli/StyleMap.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 19:06:13 +0000     7160 bytes  build/tsd/cli/TablePrinter.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 19:06:13 +0000     6159 bytes  build/tsd/cli/addCommon.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 19:06:13 +0000      560 bytes  build/tsd/cli/cliUtils.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 19:06:13 +0000     1295 bytes  build/tsd/cli/const.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 19:06:13 +0000     6258 bytes  build/tsd/cli/tracker.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 19:06:13 +0000     2048 bytes  build/tsd/cli/update.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 19:06:13 +0000     5841 bytes  build/tsd/context/Config.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 19:06:13 +0000      398 bytes  build/tsd/context/Const.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 19:06:13 +0000     2349 bytes  build/tsd/context/Context.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 19:06:13 +0000      789 bytes  build/tsd/context/InstalledDef.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 19:06:13 +0000      876 bytes  build/tsd/context/Paths.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 19:06:13 +0000     3032 bytes  build/tsd/data/Def.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 19:06:13 +0000      403 bytes  build/tsd/data/DefBlob.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 19:06:13 +0000     2096 bytes  build/tsd/data/DefCommit.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 19:06:13 +0000     7612 bytes  build/tsd/data/DefIndex.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 19:06:13 +0000      641 bytes  build/tsd/data/DefInfo.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 19:06:13 +0000     2087 bytes  build/tsd/data/DefVersion.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 19:06:13 +0000     2096 bytes  build/tsd/logic/ConfigIO.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 19:06:13 +0000     3190 bytes  build/tsd/logic/ContentLoader.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 19:06:13 +0000     2479 bytes  build/tsd/logic/Core.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 19:06:13 +0000      203 bytes  build/tsd/logic/CoreModule.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 19:06:13 +0000     2654 bytes  build/tsd/logic/IndexManager.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 19:06:13 +0000     2036 bytes  build/tsd/logic/InfoParser.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 19:06:13 +0000      508 bytes  build/tsd/logic/InstallResult.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 19:06:13 +0000     4659 bytes  build/tsd/logic/Installer.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 19:06:13 +0000     2956 bytes  build/tsd/logic/Resolver.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 19:06:13 +0000     4119 bytes  build/tsd/logic/SelectorQuery.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 19:06:13 +0000     1720 bytes  build/tsd/schema/config.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 19:06:13 +0000     1193 bytes  build/tsd/select/CommitMatcher.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 19:06:13 +0000     2858 bytes  build/tsd/select/DateMatcher.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 19:06:13 +0000      223 bytes  build/tsd/select/InfoMatcher.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 19:06:13 +0000     2011 bytes  build/tsd/select/NameMatcher.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 19:06:13 +0000     1251 bytes  build/tsd/select/Query.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 19:06:13 +0000      342 bytes  build/tsd/select/Selection.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 19:06:13 +0000     2424 bytes  build/tsd/select/VersionMatcher.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 19:06:13 +0000      909 bytes  build/tsd/support/AuthorInfo.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 19:06:13 +0000     4575 bytes  build/tsd/support/Bundle.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 19:06:13 +0000     2197 bytes  build/tsd/support/BundleChange.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 19:06:13 +0000     3560 bytes  build/tsd/support/BundleManager.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 19:06:13 +0000      494 bytes  build/tsd/support/PackageDefinition.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 19:06:13 +0000     3088 bytes  build/tsd/support/PackageLinker.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 19:06:13 +0000      239 bytes  build/tsd/util/DateComp.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 19:06:13 +0000     6652 bytes  build/tsd/util/defUtil.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 19:06:13 +0000     5436 bytes  build/tsd/util/error-handler.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 19:06:13 +0000     1218 bytes  build/xm/assert.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 19:06:13 +0000     2189 bytes  build/xm/assertVar.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 19:06:13 +0000     3084 bytes  build/xm/collection.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 19:06:13 +0000     1444 bytes  build/xm/dateUtils.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 19:06:13 +0000     4071 bytes  build/xm/encode.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 19:06:13 +0000    12600 bytes  build/xm/fileIO.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 19:06:13 +0000     2233 bytes  build/xm/hash.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 19:06:13 +0000     1883 bytes  build/xm/inspect.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 19:06:13 +0000     1227 bytes  build/xm/lib/ActionMap.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 19:06:13 +0000      444 bytes  build/xm/lib/CodeStyle.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 19:06:13 +0000     4125 bytes  build/xm/lib/JSONPointer.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 19:06:13 +0000     4353 bytes  build/xm/lib/JSONStabilizer.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 19:06:13 +0000     2887 bytes  build/xm/lib/PackageJSON.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 19:06:13 +0000     1953 bytes  build/xm/lib/StatCounter.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 19:06:13 +0000    10031 bytes  build/xm/lib/StyledOut.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 19:06:13 +0000     1791 bytes  build/xm/lib/URLManager.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 19:06:13 +0000     8547 bytes  build/xm/lib/eventLog.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 19:06:13 +0000     1186 bytes  build/xm/objectUtils.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 19:06:13 +0000     2146 bytes  build/xm/parseString.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 19:06:13 +0000     1090 bytes  build/xm/stringUtils.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 19:06:13 +0000     4961 bytes  build/xm/typeOf.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 19:06:13 +0000      904 bytes  conf/settings.json</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 19:06:13 +0000     4661 bytes  package.json</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 19:06:13 +0000    19652 bytes  tsconfig.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 19:07:29 +0000   362928 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 19:07:29 +0000    11391 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 19:07:29 +0000    22360 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 19:07:29 +0000     1129 bytes  build/api.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 19:07:29 +0000      309 bytes  build/bootstrap.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 19:07:29 +0000      317 bytes  build/cli.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 19:07:29 +0000      259 bytes  build/expose/Command.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 19:07:29 +0000        1 bytes  build/expose/CommandSorter.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 19:07:29 +0000     4138 bytes  build/expose/Context.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 19:07:29 +0000       14 bytes  build/expose/ContextHandle.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 19:07:29 +0000        1 bytes  build/expose/ContextValueHandle.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 19:07:29 +0000     7139 bytes  build/expose/Expose.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 19:07:29 +0000        1 bytes  build/expose/ExposeError.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 19:07:29 +0000     8624 bytes  build/expose/Formatter.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 19:07:29 +0000      221 bytes  build/expose/Group.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 19:07:29 +0000      176 bytes  build/expose/Level.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 19:07:29 +0000      258 bytes  build/expose/Option.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 19:07:29 +0000        1 bytes  build/expose/Result.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 19:07:29 +0000       14 bytes  build/expose/ResultHandle.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 19:07:29 +0000     1867 bytes  build/expose/sorter.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 19:07:29 +0000     2338 bytes  build/getContent.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 19:07:29 +0000     1413 bytes  build/git/GithubRepo.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 19:07:29 +0000        1 bytes  build/git/GithubRepoConfig.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 19:07:29 +0000     3898 bytes  build/git/GithubURLs.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 19:07:29 +0000      679 bytes  build/git/gitUtil.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 19:07:29 +0000     3603 bytes  build/git/loader/GithubAPI.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 19:07:29 +0000     2625 bytes  build/git/loader/GithubLoader.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 19:07:29 +0000     2252 bytes  build/git/loader/GithubRaw.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 19:07:29 +0000     1015 bytes  build/git/model/GitCommitMessage.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 19:07:29 +0000      765 bytes  build/git/model/GitCommitUser.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 19:07:29 +0000        1 bytes  build/git/model/GithubJSONTreeElem.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 19:07:29 +0000     2435 bytes  build/git/model/GithubRateInfo.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 19:07:29 +0000      575 bytes  build/git/model/GithubUser.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 19:07:29 +0000        1 bytes  build/http/CacheInfo.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 19:07:29 +0000      419 bytes  build/http/CacheMode.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 19:07:29 +0000      181 bytes  build/http/CacheObject.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 19:07:29 +0000     1743 bytes  build/http/CacheOpts.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 19:07:29 +0000     1375 bytes  build/http/CacheRequest.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 19:07:29 +0000    13045 bytes  build/http/CacheStreamLoader.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 19:07:29 +0000     8676 bytes  build/http/HTTPCache.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 19:07:29 +0000        1 bytes  build/http/HTTPOpts.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 19:07:29 +0000      198 bytes  build/http/ResponseInfo.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 19:07:29 +0000      977 bytes  build/http/types.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 19:07:29 +0000     9858 bytes  build/tsd/API.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 19:07:29 +0000    20233 bytes  build/tsd/CLI.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 19:07:29 +0000      944 bytes  build/tsd/Options.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 19:07:29 +0000    10793 bytes  build/tsd/cli/CLIPrinter.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 19:07:29 +0000     2308 bytes  build/tsd/cli/StyleMap.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 19:07:29 +0000     7160 bytes  build/tsd/cli/TablePrinter.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 19:07:29 +0000     6159 bytes  build/tsd/cli/addCommon.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 19:07:29 +0000      560 bytes  build/tsd/cli/cliUtils.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 19:07:29 +0000     1295 bytes  build/tsd/cli/const.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 19:07:29 +0000     6258 bytes  build/tsd/cli/tracker.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 19:07:29 +0000     2048 bytes  build/tsd/cli/update.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 19:07:29 +0000     5841 bytes  build/tsd/context/Config.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 19:07:29 +0000      398 bytes  build/tsd/context/Const.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 19:07:29 +0000     2349 bytes  build/tsd/context/Context.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 19:07:29 +0000      789 bytes  build/tsd/context/InstalledDef.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 19:07:29 +0000      876 bytes  build/tsd/context/Paths.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 19:07:29 +0000     3032 bytes  build/tsd/data/Def.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 19:07:29 +0000      403 bytes  build/tsd/data/DefBlob.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 19:07:29 +0000     2096 bytes  build/tsd/data/DefCommit.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 19:07:29 +0000     7612 bytes  build/tsd/data/DefIndex.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 19:07:29 +0000      641 bytes  build/tsd/data/DefInfo.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 19:07:29 +0000     2087 bytes  build/tsd/data/DefVersion.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 19:07:29 +0000     2096 bytes  build/tsd/logic/ConfigIO.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 19:07:29 +0000     3190 bytes  build/tsd/logic/ContentLoader.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 19:07:29 +0000     2479 bytes  build/tsd/logic/Core.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 19:07:29 +0000      203 bytes  build/tsd/logic/CoreModule.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 19:07:29 +0000     2654 bytes  build/tsd/logic/IndexManager.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 19:07:29 +0000     2036 bytes  build/tsd/logic/InfoParser.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 19:07:29 +0000      508 bytes  build/tsd/logic/InstallResult.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 19:07:29 +0000     4659 bytes  build/tsd/logic/Installer.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 19:07:29 +0000     2956 bytes  build/tsd/logic/Resolver.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 19:07:29 +0000     4119 bytes  build/tsd/logic/SelectorQuery.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 19:07:29 +0000     1720 bytes  build/tsd/schema/config.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 19:07:29 +0000     1193 bytes  build/tsd/select/CommitMatcher.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 19:07:29 +0000     2858 bytes  build/tsd/select/DateMatcher.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 19:07:29 +0000      223 bytes  build/tsd/select/InfoMatcher.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 19:07:29 +0000     2011 bytes  build/tsd/select/NameMatcher.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 19:07:29 +0000     1251 bytes  build/tsd/select/Query.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 19:07:29 +0000      342 bytes  build/tsd/select/Selection.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 19:07:29 +0000     2424 bytes  build/tsd/select/VersionMatcher.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 19:07:29 +0000      909 bytes  build/tsd/support/AuthorInfo.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 19:07:29 +0000     4575 bytes  build/tsd/support/Bundle.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 19:07:29 +0000     2197 bytes  build/tsd/support/BundleChange.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 19:07:29 +0000     3560 bytes  build/tsd/support/BundleManager.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 19:07:29 +0000      494 bytes  build/tsd/support/PackageDefinition.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 19:07:29 +0000     3088 bytes  build/tsd/support/PackageLinker.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 19:07:29 +0000      239 bytes  build/tsd/util/DateComp.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 19:07:29 +0000     6652 bytes  build/tsd/util/defUtil.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 19:07:29 +0000     5436 bytes  build/tsd/util/error-handler.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 19:07:29 +0000     1218 bytes  build/xm/assert.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 19:07:29 +0000     2189 bytes  build/xm/assertVar.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 19:07:29 +0000     3084 bytes  build/xm/collection.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 19:07:29 +0000     1444 bytes  build/xm/dateUtils.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 19:07:29 +0000     4071 bytes  build/xm/encode.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 19:07:29 +0000    12600 bytes  build/xm/fileIO.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 19:07:29 +0000     2233 bytes  build/xm/hash.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 19:07:29 +0000     1883 bytes  build/xm/inspect.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 19:07:29 +0000     1227 bytes  build/xm/lib/ActionMap.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 19:07:29 +0000      444 bytes  build/xm/lib/CodeStyle.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 19:07:29 +0000     4125 bytes  build/xm/lib/JSONPointer.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 19:07:29 +0000     4353 bytes  build/xm/lib/JSONStabilizer.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 19:07:29 +0000     2887 bytes  build/xm/lib/PackageJSON.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 19:07:29 +0000     1953 bytes  build/xm/lib/StatCounter.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 19:07:29 +0000    10031 bytes  build/xm/lib/StyledOut.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 19:07:29 +0000     1791 bytes  build/xm/lib/URLManager.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 19:07:29 +0000     8547 bytes  build/xm/lib/eventLog.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 19:07:29 +0000     1186 bytes  build/xm/objectUtils.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 19:07:29 +0000     2146 bytes  build/xm/parseString.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 19:07:29 +0000     1090 bytes  build/xm/stringUtils.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 19:07:29 +0000     4961 bytes  build/xm/typeOf.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 19:07:29 +0000      904 bytes  conf/settings.json</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 19:07:29 +0000     4661 bytes  package.json</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 19:07:29 +0000    19652 bytes  tsconfig.json</tspan>
 </text>
 </svg>
